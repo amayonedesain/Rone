@@ -1,2 +1,2 @@
 # Rone
-menguasai bahasa pemograman
+desain web
