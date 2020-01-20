@@ -1,0 +1,2 @@
+# Rone
+menguasai bahasa pemograman
